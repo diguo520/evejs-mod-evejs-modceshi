@@ -5,7 +5,7 @@
     "name": "波坤太叔"
   },
   "category": "玩法",
-  "changelog": "987",
+  "changelog": "",
   "conflicts": [],
   "delisted": false,
   "description": "2222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222222",
@@ -35,8 +35,8 @@
   ],
   "repo": "https://github.com/diguo520/evejs-mod-evejs-modceshi",
   "requiresRestart": true,
-  "sha256": "4520ee09654e58f0974606a8fec29f23269a43dfff69f9b07b4b32479fa065fe",
-  "sizeBytes": 3936,
+  "sha256": "2ad1fd7aadabb22b884f14fd51adfc6efb0d271d5d428f2aedecd3b7d8d9ec61",
+  "sizeBytes": 3935,
   "tags": [],
   "version": "1.0.0"
 }
